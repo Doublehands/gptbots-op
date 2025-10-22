@@ -1,4 +1,4 @@
-# AIAgent Application Categorized Deployment Guide
+# AI Agent Application Categorized Deployment Guide
 
 ## 📋 Table of Contents
 
